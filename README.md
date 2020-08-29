@@ -1,2 +1,2 @@
-### Hi there 👋### Hi there, I'm prabhu - aka [thekingpin]👋
+👋### Hi there, I'm prabhu - aka [thekingpin]👋
 
