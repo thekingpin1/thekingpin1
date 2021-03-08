@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/prabhu69005243?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prabhu69005243)
 ## I'm a student and a developer for anything that comes my way!!!
 
-- 🔭 I’m currently working on a blockchain, opencv , visual studio code
+- 🔭 I’m currently working on a blockchain, opencv ,python, javascript, visual studio code
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking forward to attaining my abs
 - 🥅 2020 Goals: Contribute more to Open Source projects
