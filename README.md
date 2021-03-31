@@ -1,7 +1,5 @@
 ### Hi there, I'm prabhu - aka [thekingpin]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/prabhu69005243?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prabhu69005243)
-
 ## I'm a student and a full stack developer
 
 ## a Generalist
