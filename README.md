@@ -4,7 +4,7 @@
 ## I'm a student and a developer for anything that comes my way!!!
 
 - 🔭 I’m currently working on a blockchain, opencv ,python, javascript, visual studio code
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning blockchain.
 - 👯 I’m looking forward to attaining my abs
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and to play guitar and i also do photography and also a stoic
