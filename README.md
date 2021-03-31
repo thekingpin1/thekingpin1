@@ -1,7 +1,10 @@
 ### Hi there, I'm prabhu - aka [thekingpin]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prabhu69005243?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prabhu69005243)
-## I'm a student and a developer for anything that comes my way!!!
+
+## I'm a student and a full stack developer
+
+## a Generalist
 
 - 🔭 I’m currently working on a blockchain, opencv ,python, javascript, visual studio code
 - 🌱 I’m currently learning blockchain.
@@ -41,19 +44,10 @@
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>           
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>                      
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>               
-<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>             
-<img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>                       
-<img src="https://img.shields.io/badge/r%20-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>                                
-<img src="https://img.shields.io/badge/ruby%20-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>                       
-<img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>                                  
-<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>              
-<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>         
-<img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>     
-<img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>         
-<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />         
-<img src="https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>         
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>      
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>                                           
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>         
+<img src="https://img.shields.io/badge/angular.js%20-%23E23237.svg?&style=for-the-badge&logo=angularjs&logoColor=white"/>         
+<img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />     
 
 <br />
 <br />
